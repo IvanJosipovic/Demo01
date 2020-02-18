@@ -5,6 +5,7 @@
     <RazorLangVersion>3.0</RazorLangVersion>
     <IsPackable>true</IsPackable>
     <Title>RazorClassLibrary</Title>
+    <PackageId>RazorClassLibrary</PackageId>
     <Description>A RazorClassLibrary</Description>
     <Authors>Ivan Josipovic</Authors>
     <PackageTags>Blazor;Component</PackageTags>
